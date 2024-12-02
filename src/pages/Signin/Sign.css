@@ -1,0 +1,38 @@
+.main-color {
+  color: #000000cc;
+}
+.main-background {
+  background-color: #0f5a5f;
+}
+.bg-button {
+  background-color: #0f5a5f;
+  border-radius: 2%;
+  border: 0;
+}
+a {
+  color: #0f5a5f;
+}
+h3 {
+  margin-top: 70px;
+}
+
+.width {
+  width: 70%;
+}
+
+.space-left {
+  margin-left: 9.9rem;
+}
+.border-outline {
+  outline: 0;
+}
+
+.space-labell {
+  position: relative;
+  left: 5rem;
+}
+.imge {
+  width: 85%;
+  margin-left: 6.6rem;
+  margin-bottom: 3.5rem;
+}
