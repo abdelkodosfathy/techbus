@@ -15,6 +15,8 @@ import { Resetpassword } from './pages/Resetpassword/Resetpassword.jsx'
 import { Verifycode } from './pages/Verifycode/Verifycode.jsx'
 
 function App() {
+  console.log("im here");
+  
   return (
     <BrowserRouter>
       <Routes >
